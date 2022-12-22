@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    color: red;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+header{
+   color: red;
+}
+body{
+    
+    background: rgb(27, 34, 38);
+    
+}
+.principal{
+    padding-top: 70px ;
+    width:auto;
+   text-align: center; 
+   text-transform: uppercase;
+}
